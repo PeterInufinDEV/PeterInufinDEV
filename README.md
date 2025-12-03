@@ -65,7 +65,7 @@ I passionate about turning **Ideas into Digital Reality**.
 ---
 
 ### 📈 GitHub Stats
-![Busy Brain PM GitHub Stats](https://github-readme-stats.vercel.app/api?username=PeterInufinDEV&show_icons=true&theme=radical)
+![PeterInufinDEV GitHub Stats](https://github-readme-stats.vercel.app/api?username=PeterInufinDEV&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterInufinDEV&layout=compact&theme=radical)
 
 ---
